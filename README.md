@@ -7,5 +7,5 @@ Pogsh: The Pog Shell
 `go build -o pogsh .`
 
 # License
-The Unlicense (public domain)
+Pogsh is licensed under The Unlicense (public domain)  
 [Read here](LICENSE) for more info
